@@ -45,7 +45,7 @@ Structured with category filtering (All, Charms, Pendants, Keepsakes) and precis
 
 | Piece | Item Name | Category | Primary Asset |
 | :---: | :--- | :---: | :--- |
-| **#01** | Artisan Clay Pendant No. 01 | Pendants | `images/product-07.jpg` |
+| **#01** | Bespoke Couple Charm No. 01 | Charms | `images/piece-01.jpg` |
 | **#02** | Sculpted Clay Charm No. 02 | Charms | `images/product-06.jpg` |
 | **#03** | Sculpted Clay Charm No. 03 | Charms | `images/product-04.jpg` |
 | **#04** | Bespoke Clay Keepsake No. 04 | Keepsakes | `images/product-05.jpg` |
