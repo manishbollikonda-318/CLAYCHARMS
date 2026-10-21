@@ -41,22 +41,22 @@
 ---
 
 ### 3. Curated 12-Piece Product Catalogue
-Structured with category filtering (All, Charms, Pendants, Keepsakes) and precise piece numbering:
+Structured with category filtering (All, Charms, Pendants, Keepsakes), transparent pricing, and precise piece numbering:
 
-| Piece | Item Name | Category | Primary Asset |
-| :---: | :--- | :---: | :--- |
-| **#01** | Bespoke Couple Charm No. 01 | Charms | `images/piece-01.jpg` |
-| **#02** | Sculpted Clay Charm No. 02 | Charms | `images/product-06.jpg` |
-| **#03** | Sculpted Clay Charm No. 03 | Charms | `images/product-04.jpg` |
-| **#04** | Bespoke Clay Keepsake No. 04 | Keepsakes | `images/product-05.jpg` |
-| **#05** | Sculpted Clay Charm No. 05 | Charms | `images/product-02.jpg` |
-| **#06** | Sculpted Clay Charm No. 06 | Charms | `images/product-01.jpg` |
-| **#07** | Bespoke Clay Keepsake No. 07 | Keepsakes | `images/product-08.jpg` |
-| **#08** | Sculpted Clay Charm No. 08 | Charms | `images/product-09.jpg` |
-| **#09** | Artisan Clay Pendant No. 09 | Pendants | `images/product-10.jpg` |
-| **#10** | Sculpted Clay Charm No. 10 | Charms | `images/product-11.jpg` |
-| **#11** | Bespoke Clay Keepsake No. 11 | Keepsakes | `images/product-12.jpg` |
-| **#12** | Sculpted Clay Charm No. 12 | Charms | `images/product-13.jpg` |
+| Piece | Item Name | Category | Listed Price | Primary Asset |
+| :---: | :--- | :---: | :---: | :--- |
+| **#01** | Bespoke Couple Charm No. 01 | Charms | **₹550** | `images/piece-01.jpg` |
+| **#02** | Sculpted Clay Charm No. 02 | Charms | **₹250** | `images/product-06.jpg` |
+| **#03** | Sculpted Clay Charm No. 03 | Charms | **₹100** | `images/product-04.jpg` |
+| **#04** | Bespoke Clay Keepsake No. 04 | Keepsakes | **₹250** | `images/product-05.jpg` |
+| **#05** | Sculpted Clay Charm No. 05 | Charms | **₹180** | `images/product-02.jpg` |
+| **#06** | Sculpted Clay Charm No. 06 | Charms | **₹100** | `images/product-01.jpg` |
+| **#07** | Bespoke Clay Keepsake No. 07 | Keepsakes | **₹300** | `images/product-08.jpg` |
+| **#08** | Sculpted Clay Charm No. 08 | Charms | **₹250** | `images/product-09.jpg` |
+| **#09** | Artisan Clay Pendant No. 09 | Pendants | **₹550** | `images/product-10.jpg` |
+| **#10** | Sculpted Clay Charm No. 10 | Charms | **₹200** | `images/product-11.jpg` |
+| **#11** | Bespoke Clay Keepsake No. 11 | Keepsakes | *On Request* | `images/product-12.jpg` |
+| **#12** | Sculpted Clay Charm No. 12 | Charms | **₹180** | `images/product-13.jpg` |
 
 ---
 
